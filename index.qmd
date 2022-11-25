@@ -1,0 +1,28 @@
+---
+title: "Gary A. Wagner"
+image: avatar.jpg
+about:
+  template: trestles
+  links:
+    - text: Twitter
+      icon: twitter
+      url: "https://twitter.com/_WagnerG_"
+    - text: GitHub
+      icon: github
+      url: "https://github.com/gary-wagner"
+    - text: LinkedIn
+      url: "https://www.linkedin.com/in/gary-a-wagner-451265a/"
+    - text: CV
+      url: "short_cv.pdf"
+comments: false
+---
+
+::: column-page
+I currently hold the Acadiana Business Economist Endowed Chair position at the University of Louisiana. In this role, I monitor the region's economic environment, conduct research and analysis, and develop and maintain external stakeholder relationships on behalf of the Moody College of Business and University.
+
+My research interests range from regional economics to state and local public finance issues, with a particular focus on fiscal institutions and place-based economic development. I am also Editor-in-Chief of _Public Finance Review_ and Co-Editor of _Contemporary Economic Policy_.
+
+Prior to joining the University of Louisiana in 2018, I was (most recently) Vice-President & Senior Regional Officer for the Federal Reserve Bank of Cleveland.
+:::
+
+------------------------------------------------------------------------

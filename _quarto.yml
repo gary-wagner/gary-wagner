@@ -1,0 +1,28 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+    - short_cv.pdf
+
+website:
+  title: "Gary A. Wagner"
+  site-url: ""
+  description: "Description"
+  open-graph:
+    locale: en_US
+  navbar:
+    search: false
+    right:
+      - text: "Home"
+        href: index.html
+      - text: "Papers"
+        href: papers
+      - text: "LEAF Reports"
+        href: leaf
+  page-footer:
+    left: ""
+search: false
+format:
+  html:
+    theme: [flatly]
+    css: styles.css

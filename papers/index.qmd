@@ -1,0 +1,53 @@
+---
+image: thinker.jpg
+about:
+  template: trestles
+---
+
+::: column-page
+## Recent published or forthcoming papers
+
+### 2022
+
+**Wagner, Gary A.** and Timothy M. Komarek. Forthcoming. "How Does Municipal Governance Structure Affect Innovation and Knowledge Diffusion? Evidence from U.S. Metro Areas" *Economics of Governance*.<br> [PDF](mung.pdf) &nbsp;&nbsp;&nbsp; 
+
+Humphreys, Brad, **Gary A. Wagner**, John C. Whitehead, and Pamela Wicker. Forthcoming. "Willingness to Pay for Policies to Reduce Health Risks from COVID-19: Evidence from U.S. Professional Sports," *Health Economics*.<br> [PDF](covid_wtp.pdf) &nbsp;&nbsp;&nbsp; 
+
+Komarek, Timothy M., Kyle Butts, and **Gary A. Wagner**. Forthcoming. "The Political Economy of State Economic Development Incentives: A Case of Rent Extraction," *Journal of Urban Economics*.<br> [PDF](bca.pdf) &nbsp;&nbsp;&nbsp; [Replication materials](link)
+
+Sobel, Russell S., **Gary A. Wagner**, and Peter T. Calcagno. Forthcoming. "The Political Economy of State Economic Development Incentives: A Case of Rent Extraction," *Economics & Politics*.<br> [PDF](megadeals.pdf) &nbsp;&nbsp;&nbsp; [Replication materials](link)
+
+### 2021
+
+**Wagner, Gary A.** and Douglas E. Walker. "Did Video Gaming Expansion Boost Municipal Revenues in Illinois?." *Southern Economic Journal*, 88, 649-679.<br> 
+[PDF](videogaming.pdf) &nbsp;&nbsp;&nbsp; 
+
+Portillo, Javier E. and **Gary A. Wagner**. “Do Cultural Districts Spur Urban Revitalization: Evidence
+from Louisiana.” _Journal of Economic Behavior & Organization_, 188, 651-673.<br>
+[PDF](culturaldistricts.pdf) &nbsp;&nbsp;&nbsp; 
+
+**Wagner, Gary A.** and Erick M. Elder. “Campaigning For Retirement: State Teacher Union
+Campaign Contributions and Pension Generosity.” _European Journal of Political Economy_, 68,
+101991.<br>
+[PDF](ejpe.pdf) &nbsp;&nbsp;&nbsp; 
+
+
+Komarek, Timothy and **Gary A. Wagner**. “Local Fiscal Adjustments from Depopulation: Evidence
+from the Post-Cold War Defense Contraction.” _National Tax Journal_ 74(1), 9-43.
+<br>
+[PDF](drawdown.pdf) &nbsp;&nbsp;&nbsp; 
+
+
+### 2020
+
+Komarek, Timothy and **Gary A. Wagner**. “The Distributional Effects of Job Loss From Fiscal
+Consolidation: Evidence from The Budget Control Act of 2011.” _Economics Letters_ 106, 109515.<br>
+[PDF](distributional_effects.pdf) &nbsp;&nbsp;&nbsp; 
+
+
+**Wagner, Gary A.** and Jamie Bolgona Pavlik. “Patent Intensity and Concentration: The Effect
+of Institutional Quality on MSA Patent Activity.” _Papers in Regional Science_, 99(4), 857-898.<br>
+[PDF](msa_innovation.pdf) &nbsp;&nbsp;&nbsp; 
+:::
+
+---

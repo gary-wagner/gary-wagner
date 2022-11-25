@@ -1,0 +1,40 @@
+---
+image: ni.jpg
+about:
+  template: trestles
+comments: false
+---
+
+::: column-page
+
+## Louisiana Economic Activity Forecast Reports
+
+I began producing these quarterly reports in the spring of 2020. Forecasts are generated for (statewide) employment, unemployment rate, home prices, and GDP. Employment forecasts are also provided separately for each of the state's nine metropolitan statistical areas.
+
+
+If you are interested in subscribing, you may click on this [link](https://lp.constantcontactpages.com/su/qooqOKX/economicforcast) to receive your copy.
+
+
+### 2022 Reports
+[2022:Q4 Louisiana Economic Activity Forecast](https://business.louisiana.edu/sites/business/files/LEAF_Report_2022Q4.pdf)
+[2022:Q3 Louisiana Economic Activity Forecast](https://business.louisiana.edu/sites/business/files/LEAF_Report_2022Q3.pdf)<br>
+[2022:Q2 Louisiana Economic Activity Forecast](https://business.louisiana.edu/sites/business/files/LEAF_Report_2022Q2.pdf)<br>
+[2022:Q1 Louisiana Economic Activity Forecast](https://business.louisiana.edu/sites/business/files/LEAF_Report_2022Q1.pdf)<br>
+
+
+### 2021 Reports
+[2021:Q4 Louisiana Economic Activity Forecast](https://business.louisiana.edu/sites/business/files/LEAF_Report_2021Q4.pdf)<br>
+[2021:Q3 Louisiana Economic Activity Forecast](https://business.louisiana.edu/sites/business/files/LEAF_Report_2021Q3.pdf)<br>
+[2021:Q2 Louisiana Economic Activity Forecast](https://business.louisiana.edu/sites/business/files/LEAF_Report_2021Q2.pdf)<br>
+[2021:Q1 Louisiana Economic Activity Forecast](https://business.louisiana.edu/sites/business/files/LEAF_Report_2021Q1.pdf)<br>
+
+
+### 2020 Reports
+[2020:Q4 Louisiana Economic Activity Forecast](https://business.louisiana.edu/sites/business/files/LEAF_Report_2020Q4.pdf)<br>
+[2020:Q3 Louisiana Economic Activity Forecast](https://business.louisiana.edu/sites/business/files/LEAF_Report_2020Q3.pdf)<br>
+[2020:Q2 Louisiana Economic Activity Forecast](https://business.louisiana.edu/sites/business/files/LEAF_Report_2020Q2.pdf)<br>
+
+
+
+
+:::
