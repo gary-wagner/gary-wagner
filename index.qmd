@@ -18,9 +18,9 @@ comments: false
 ---
 
 ::: column-page
-I currently hold the Acadiana Business Economist Endowed Chair position at the University of Louisiana. In this role, I monitor the region's economic environment, conduct research and analysis, and develop and maintain external stakeholder relationships on behalf of the Moody College of Business and University.
+I currently hold the Acadiana Business Economist/BORSF Eminent Scholar Endowed Chair in Economics position at the University of Louisiana. In this role, I monitor the region's economic environment, conduct research and analysis, and develop and maintain external stakeholder relationships on behalf of the Moody College of Business and University.
 
-My research interests range from regional economics to state and local public finance issues, with a particular focus on fiscal institutions and place-based economic development. I am also Editor-in-Chief of _Public Finance Review_ and Co-Editor of _Contemporary Economic Policy_.
+My research interests range from regional economics to state and local public finance issues, with a particular focus on fiscal institutions and place-based economic development. I am also Editor-in-Chief of [_Public Finance Review_](https://journals.sagepub.com/home/pfr) and Co-Editor of [_Contemporary Economic Policy_](https://onlinelibrary.wiley.com/journal/14657287).
 
 Prior to joining the University of Louisiana in 2018, I was (most recently) Vice-President & Senior Regional Officer for the Federal Reserve Bank of Cleveland.
 :::
