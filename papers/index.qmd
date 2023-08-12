@@ -7,15 +7,22 @@ about:
 ::: column-page
 ## Recent published or forthcoming papers
 
+
+### 2023
+
+**Wagner, Gary A.** and Jonathan C. Rork. "Does State Tax Reciprocity Affect Interstate Commuting? Evidence from a Natural Experiment" *Regional Science & Urban Economics*.<br> [PDF](Recip_commuting.pdf) &nbsp;&nbsp;&nbsp; [Replication materials](https://www.dropbox.com/s/wxolunhmsd7ccui/RSUE-D-22-00157-replication.zip?dl=0)
+
+
 ### 2022
 
-**Wagner, Gary A.** and Timothy M. Komarek. Forthcoming. "How Does Municipal Governance Structure Affect Innovation and Knowledge Diffusion? Evidence from U.S. Metro Areas" *Economics of Governance*.<br> [PDF](mung.pdf) &nbsp;&nbsp;&nbsp; 
+**Wagner, Gary A.** and Timothy M. Komarek. "How Does Municipal Governance Structure Affect Innovation and Knowledge Diffusion? Evidence from U.S. Metro Areas" *Economics of Governance*.<br> [PDF](mung.pdf) &nbsp;&nbsp;&nbsp; 
 
-Humphreys, Brad, **Gary A. Wagner**, John C. Whitehead, and Pamela Wicker. Forthcoming. "Willingness to Pay for Policies to Reduce Health Risks from COVID-19: Evidence from U.S. Professional Sports," *Health Economics*.<br> [PDF](covid_wtp.pdf) &nbsp;&nbsp;&nbsp; 
+Humphreys, Brad, **Gary A. Wagner**, John C. Whitehead, and Pamela Wicker. "Willingness to Pay for Policies to Reduce Health Risks from COVID-19: Evidence from U.S. Professional Sports," *Health Economics*.<br> [PDF](covid_wtp.pdf) &nbsp;&nbsp;&nbsp; 
 
-Komarek, Timothy M., Kyle Butts, and **Gary A. Wagner**. Forthcoming. "Government Contracting, Labor Intensity, and the Local Effects of Fiscal Consolidation: Evidence from the Budget Control Act of 2011," *Journal of Urban Economics*.<br> [PDF](bca.pdf) &nbsp;&nbsp;&nbsp; [Replication materials](link)
+Komarek, Timothy M., Kyle Butts, and **Gary A. Wagner**. "Government Contracting, Labor Intensity, and the Local Effects of Fiscal Consolidation: Evidence from the Budget Control Act of 2011," *Journal of Urban Economics*.<br> [PDF](bca.pdf) &nbsp;&nbsp;&nbsp; [Replication materials](https://www.dropbox.com/s/xb4pdlc4zlq0ny7/YJUEC-D-20-00284-replication.zip?dl=0)
 
-Sobel, Russell S., **Gary A. Wagner**, and Peter T. Calcagno. Forthcoming. "The Political Economy of State Economic Development Incentives: A Case of Rent Extraction," *Economics & Politics*.<br> [PDF](megadeals.pdf) &nbsp;&nbsp;&nbsp; [Replication materials](link)
+Sobel, Russell S., **Gary A. Wagner**, and Peter T. Calcagno. Forthcoming. "The Political Economy of State Economic Development Incentives: A Case of Rent Extraction," *Economics & Politics*.<br> [PDF](megadeals.pdf) &nbsp;&nbsp;&nbsp; 
+
 
 ### 2021
 
