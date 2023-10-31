@@ -10,6 +10,11 @@ about:
 
 ### 2023
 
+Araki, Michael, Daniel Bennett, and **Gary A. Wagner**. "Regional Innovation Networks \& High Growth Entrepreneurship" *Research Policy*.<br>
+
+**Wagner, Gary A.** and Hyun Ji Lee. "Does Does broadband affect local economic outcomes less
+than we thought? Micro evidence from Louisiana" *Contemporary Economic Policy*.<br>
+
 **Wagner, Gary A.** and Jonathan C. Rork. "Does State Tax Reciprocity Affect Interstate Commuting? Evidence from a Natural Experiment" *Regional Science & Urban Economics*.<br> [PDF](Recip_commuting.pdf) &nbsp;&nbsp;&nbsp; [Replication materials](https://www.dropbox.com/s/wxolunhmsd7ccui/RSUE-D-22-00157-replication.zip?dl=0)
 
 
