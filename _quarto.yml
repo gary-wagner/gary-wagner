@@ -2,7 +2,7 @@ project:
   type: website
   output-dir: docs
   resources:
-    - short_cv.pdf
+    - Wagner_cv.pdf
 
 website:
   title: "Gary A. Wagner"
@@ -15,7 +15,7 @@ website:
     right:
       - text: "Home"
         href: index.html
-      - text: "Papers"
+      - text: "Recent Papers"
         href: papers
       - text: "LEAF Reports"
         href: leaf
