@@ -13,7 +13,7 @@ about:
     - text: LinkedIn
       url: "https://www.linkedin.com/in/gary-a-wagner-451265a/"
     - text: CV
-      url: "short_cv.pdf"
+      url: "Wagner_cv.pdf"
 comments: false
 ---
 
