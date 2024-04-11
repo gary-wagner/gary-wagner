@@ -1,13 +1,11 @@
 project:
   type: website
   output-dir: docs
-  resources:
-    - Wagner_cv.pdf
 
 website:
   title: "Gary A. Wagner"
   site-url: ""
-  description: "Description"
+  description: "Gary A. Wagner website"
   open-graph:
     locale: en_US
   navbar:
@@ -15,7 +13,7 @@ website:
     right:
       - text: "Home"
         href: index.html
-      - text: "Recent Papers"
+      - text: "CV and Recent Papers"
         href: papers
       - text: "LEAF Reports"
         href: leaf

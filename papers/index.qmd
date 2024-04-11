@@ -5,7 +5,9 @@ about:
 ---
 
 ::: column-page
-## Recent published or forthcoming papers
+## CV and recent papers
+
+Full [CV](Wagner_cv.pdf)
 
 
 ### 2023

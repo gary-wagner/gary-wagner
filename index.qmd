@@ -12,9 +12,6 @@ about:
       url: "https://github.com/gary-wagner"
     - text: LinkedIn
       url: "https://www.linkedin.com/in/gary-a-wagner-451265a/"
-    - text: CV
-      url: "Wagner_cv.pdf"
-    
 comments: false
 ---
 
